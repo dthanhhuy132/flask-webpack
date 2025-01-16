@@ -1,0 +1,1 @@
+(()=>{"use strict";!function(o,e){const n=document.getElementById("home-content");n&&(n.textContent=e)}(0,"Hello! You are on the Home Page. Enjoy your stay!"),console.log("console from home"),console.log("common1 for home page")})();
